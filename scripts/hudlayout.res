@@ -74,9 +74,9 @@
 		"fieldName"		"HudMedicCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r138"	[$WIN32]
-		"xpos_minmode"	"r100"	[$WIN32]
-		"ypos"			"r69"	[$WIN32]
+		"xpos"			"c90"	[$WIN32]
+		"xpos_minmode"	"c100"	[$WIN32]
+		"ypos"			"c65"	[$WIN32]
 		"ypos_minmode"	"r34"	[$WIN32]
 		"xpos"			"r174"	[$X360]
 		"ypos"			"r90"	[$X360]
@@ -291,7 +291,7 @@
 	{
 		"fieldName" 	"CSecondaryTargetID"
 		"visible" 	"0"
-		"enabled" 	"1"
+		"enabled" 	"0"
 		"xpos"		"c-126"
 		"ypos"		"335"
 		"wide"	 	"252"
@@ -970,7 +970,7 @@
 		"fieldName" 		"HudChat"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"10"	[$WIN32]
+		"xpos"			"100"	[$WIN32]
 		"xpos"			"42"	[$X360]
 		"ypos"			"275"
 		"wide"	 		"320"
@@ -1273,8 +1273,8 @@
 	HudTFCrosshair
 	{
 		"fieldName" "HudTFCrosshair"
-		"visible" "1"
-		"enabled" "1"
+		"visible" "0"
+		"enabled" "0"
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -1478,8 +1478,8 @@
 	HudMatchStatus
 	{
 		"fieldName"				"HudMatchStatus"
-		"visible"				"1"
-		"enabled"				"1"
+		"visible"				"0"
+		"enabled"				"0"
 		"xpos"					"0"
 		"ypos"					"0"
 		"zpos"					"3"
