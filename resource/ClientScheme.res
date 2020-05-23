@@ -1812,6 +1812,123 @@ Scheme
 			   "antialias" "1"
 			}
 		}
+		"AdelinoBold26"
+		{
+		    "1"
+			{
+			   "name"      "Adelino Bold"
+			   "tall"      "26"
+			   "antialias" "1"
+			}
+		}
+		"AdelinoBold30"
+		{
+		    "1"
+			{
+			   "name"      "Adelino Bold"
+			   "tall"      "30"
+			   "antialias" "1"
+			}
+		}
+		"AdelinoBold36"
+		{
+		    "1"
+			{
+			   "name"      "Adelino Bold"
+			   "tall"      "36"
+			   "antialias" "1"
+			}
+		}
+		"AdelinoBold42"
+		{
+		    "1"
+			{
+			   "name"      "Adelino Bold"
+			   "tall"      "42"
+			   "antialias" "1"
+			}
+		}
+		"AdelinoBold48"
+		{
+		    "1"
+			{
+			   "name"      "Adelino Bold"
+			   "tall"      "48"
+			   "antialias" "1"
+			}
+		}
+		"AdelinoBold52"
+		{
+		    "1"
+			{
+			   "name"      "Adelino Bold"
+			   "tall"      "52"
+			   "antialias" "1"
+			}
+		}
+		"AdelinoBold58"
+		{
+		    "1"
+			{
+			   "name"      "Adelino Bold"
+			   "tall"      "58"
+			   "antialias" "1"
+			}
+		}
+		"AdelinoBold64"
+		{
+		    "1"
+			{
+			   "name"      "Adelino Bold"
+			   "tall"      "64"
+			   "antialias" "1"
+			}
+		}
+		"AdelinoThin12"
+		{
+		    "1"
+			{
+			   "name"      "Adelino Thin"
+			   "tall"      "12"
+			   "antialias" "1"
+			}
+		}
+		"AdelinoThin20"
+		{
+		    "1"
+			{
+			   "name"      "Adelino Thin"
+			   "tall"      "20"
+			   "antialias" "1"
+			}
+		}
+		"AdelinoThin24"
+		{
+		    "1"
+			{
+			   "name"      "Adelino Thin"
+			   "tall"      "24"
+			   "antialias" "1"
+			}
+		}
+		"AdelinoThin30"
+		{
+		    "1"
+			{
+			   "name"      "Adelino Thin"
+			   "tall"      "30"
+			   "antialias" "1"
+			}
+		}
+		"AdelinoThin36"
+		{
+		    "1"
+			{
+			   "name"      "Adelino Thin"
+			   "tall"      "36"
+			   "antialias" "1"
+			}
+		}
 	}
 
 	//
