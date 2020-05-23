@@ -253,12 +253,12 @@
 	CMainTargetID
 	{
 		"fieldName" 	"CMainTargetID"
-		"visible" 	"0"
-		"enabled" 	"0"
-		"xpos"		"c-126"
-		"ypos"		"0"
-		"wide"	 	"0"
-		"tall"	 	"0"
+		"visible" 	"1"
+		"enabled" 	"1"
+		"xpos"		"-20"
+		"ypos"		"390"
+		"wide"	 	"50"
+		"tall"	 	"50"
 		"tall_minmode"	 	"28"
 		"priority"	"40"
 		"priority_lodef"	"5"
@@ -532,7 +532,7 @@
 		"fieldName" "ScorePanel"
 		"visible" "1"
 		"enabled" "1"
-		"wide"	 "640"
+		"wide"	 "695"
 		"tall"	 "480"
 	}
 
