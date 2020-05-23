@@ -108,7 +108,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"HudClassHealth"
+		"font"			"Adelino30"
 		"fgcolor"		"TanDark"
 	}	
 }
