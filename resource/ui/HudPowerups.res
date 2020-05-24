@@ -3,7 +3,7 @@
 	"HudPowerups"
 	{
 		"fieldName"		"HudPowerups"
-		"xpos"			"410"
+		"xpos"			"420"
 		"ypos"			"r115"
 		"zpos"			"3"
 		"wide"			"300"

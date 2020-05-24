@@ -3,8 +3,8 @@
 	"HudSwapWeapons"
 	{
 		"fieldName"		"HudSwapWeapons"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"xpos"			"c-130"
 		"xpos_minmode"	"c-130"
 		"ypos"			"r150"
@@ -42,8 +42,8 @@
 		"wide_minmode"	"37"
 		"tall"			"50"
 		"tall_minmode"	"37"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"../sprites/bucket_nailgun"
 		"scaleImage"	"1"	
 	}
@@ -76,8 +76,8 @@
 		"wide_minmode"	"37"
 		"tall"			"50"
 		"tall_minmode"	"37"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"../sprites/bucket_supershotgun"
 		"scaleImage"	"1"	
 	}
@@ -93,8 +93,8 @@
 		"wide"			"175"
 		"tall"			"27"
 		"tall_lodef"	"30"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"textAlignment"	"centered"
 		"labelText"		"#OF_WeaponSwitch"	
 	}

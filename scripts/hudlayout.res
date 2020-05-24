@@ -16,9 +16,9 @@
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"c100"	[$WIN32]
+		"xpos"	"c95"	[$WIN32]
 		"xpos_minmode"	"r85"	[$WIN32]
-		"ypos"	"c25"	[$WIN32]
+		"ypos"	"c30"	[$WIN32]
 		"ypos_minmode"	"r36"	[$WIN32]
 		"wide"	"180"
 		"tall"	"150"
@@ -158,15 +158,15 @@
 	HudWeaponSelection
 	{
 		"fieldName" "HudWeaponSelection"
-		"xpos"	"0"
+		"xpos"	"100"
 		"wide"	"f0"
 		"ypos" 	"0"
 		"tall"	"480"
 		"RightMargin" "0"
 		"RightMargin_hidef" "32"
 		"RightMargin_lodef" "38"
-		"visible" "1"
-		"enabled" "1"
+		"visible" "0"
+		"enabled" "0"
 		"SmallBoxWide" "72"
 		"SmallBoxTall" "54"
 		"PlusStyleBoxWide" "90"
@@ -647,8 +647,8 @@
 	HudWeapon
 	{
 		"fieldName" "HudWeapon"
-		"visible" "1"
-		"enabled" "1"
+		"visible" "0"
+		"enabled" "0"
 		"wide"	 "640"
 		"tall"	 "480"
 	}
