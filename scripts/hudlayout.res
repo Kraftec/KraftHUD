@@ -157,39 +157,26 @@
 
 	HudWeaponSelection
 	{
-		"fieldName" "HudWeaponSelection"
-		"xpos"	"100"
-		"wide"	"0"
-		"ypos" 	"0"
-		"tall"	"0"
-		"RightMargin" "0"
-		"visible" "1"
-		"enabled" "1"
-		"SmallBoxWide" "50"
-		"SmallBoxTall" "30"
-		"PlusStyleBoxWide" "0"
-		"PlusStyleBoxTall" "0"
-		"PlusStyleExpandSelected"	"0.3"
-		"LargeBoxWide" "80"
-		"LargeBoxTall" "50"
-		"BoxGap" "2"	[$WIN32]
-		"SelectionNumberXPos" "0"
-		"SelectionNumberYPos" "4"
-		"IconXPos" "999"
-		"IconYPos" "999"
-		"TextYPos" "70"		[$WIN32]
-		"TextYPos" "65"		[$X360]
-		"ErrorYPos" "9999999"
-		"TextColor" "SelectionTextFg"
-		"MaxSlots"	"15"
-		"PlaySelectSounds"	"1"
-		"Alpha" "1"
-		"SelectionAlpha" "100"
-		"BoxColor" "0 0 0 100"
-		"SelectedBoxClor" "0 0 0 220"
-		"SelectionNumberFg"	"0 0 0 255"
-		"NumberFont" "AdelinoBold12"
-	}	
+		"fieldName" 		"HudWeaponSelection"
+		"ypos"				"20"
+		"visible"			"1"
+		"enabled"			"1"
+		"SmallBoxSize"		"20"
+		"MediumBoxWide"		"80"
+		"MediumBoxTall"		"50"
+		"LargeBoxWide"		"70"
+		"LargeBoxTall"		"40"
+		"BoxGap"			"0"
+		"SelectionNumberXPos"	"999999999"
+		"SelectionNumberYPos"	"999999999"
+		"SelectionGrowTime"		"0.4"
+		"WeaponBGXPos"		"5"
+		"WeaponBGYPos"		"0"
+		"TextYPos"			"999999"
+		"MaxSlots"			"15"
+		"SelectionAlpha"	"128"
+		"EmptyBoxColor"		"0 0 0 80"
+	}
 	
 	CHudAccountPanel
 	{
@@ -493,16 +480,16 @@
 		"CornerRadius"	  "3"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
-		"TextFont"		"Default"
+		"TextFont"		"Adelino12"
 		
 		"TeamBlue"		"HUDBlueTeamSolid"
 		"TeamRed"		"HUDRedTeamSolid"
 		"IconColor"		"HudWhite"
 		"LocalPlayerColor"	"HUDBlack"
 
-		"BaseBackgroundColor"	"46 43 42 220"		[$WIN32]
-		"LocalBackgroundColor"	"245 229 196 200"	[$WIN32]
-		"BaseBackgroundColor"	"32 32 32 255"		[$X360]
+		"BaseBackgroundColor"	"0 0 0 100"		[$WIN32]
+		"LocalBackgroundColor"	"255 255 255 100"	[$WIN32]
+		"BaseBackgroundColor"	"0 0 0 100"		[$X360]
 		"LocalBackgroundColor"	"0 0 0 255"		[$X360]
 	}
 
@@ -863,6 +850,14 @@
 		"zpos"					"4"
 		"proportionaltoparent"	"1"
 	}
+		WinPanelDM
+	{
+		"fieldName"				"WinPanelDM"
+		"visible"				"1"
+		"enabled"				"1"
+		"wide"	 				"800"
+		"tall"	 				"480"
+	}	
 
 	ArenaWinPanel
 	{
@@ -969,7 +964,7 @@
 		"enabled" 		"1"
 		"xpos"			"100"	[$WIN32]
 		"xpos"			"42"	[$X360]
-		"ypos"			"275"
+		"ypos"			"100"
 		"wide"	 		"320"
 		"tall"	 		"120"
 		"PaintBackgroundType"	"2"
