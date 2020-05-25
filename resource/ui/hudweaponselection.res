@@ -7,8 +7,8 @@
 		"xpos"			"0"
 		"ypos"			"-40"
 		"zpos"			"0"		
-		"wide"			"80"
-		"tall"			"40"
+		"wide"			"0"  //80
+		"tall"			"0" //40
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/ammo_blue_bg"
