@@ -899,8 +899,8 @@
 	FreezePanel
 	{
 		"fieldName"				"FreezePanel"
-		"visible"				"1"
-		"enabled"				"1"
+		"visible"				"0"
+		"enabled"				"0"
 		"xpos"					"0"
 		"ypos"					"0"
 		"wide"					"f0"
@@ -910,8 +910,8 @@
 	FreezePanelCallout
 	{
 		"fieldName"				"FreezePanelCallout"
-		"visible"				"1"
-		"enabled"				"1"
+		"visible"				"0"
+		"enabled"				"0"
 		"xpos"					"200"
 		"ypos"					"200"
 		"wide"					"100"
