@@ -4,9 +4,4 @@ A custom HUD for Open Fortress
 
 (WIP)
 
-Known Issues:
-
-#Win Screen
-#Weapon Selection
-#CTF Hud
-#Any other gamemodes
+Team scoreboard taken from omphud-edit, https://huds.tf/forum/showthread.php?tid=233
