@@ -5,7 +5,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"			"ObjectiveStatusFlagPanel"
 		"xpos"				"0"
-		"ypos"				"0"
+		"ypos"				"10"
 		"zpos"				"1"
 		"wide"				"f0"
 		"tall"				"480"
@@ -310,7 +310,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayingTo"
 		"xpos"			"c-55"	[$WIN32]
-		"ypos"			"r30"	[$WIN32]
+		"ypos"			"r35"	[$WIN32]
 		"ypos"			"r48"	[$X360]
 		"zpos"			"4"
 		"wide"			"100"	[$WIN32]
@@ -350,10 +350,10 @@
 		"ypos"			"r31"	[$WIN32]
 		"ypos"			"r51"	[$X360]
 		"zpos"			"3"
-		"wide"			"150"	[$WIN32]
-		"wide"			"120"	[$X360]
-		"tall"			"30"	[$WIN32]
-		"tall"			"35"	[$X360]
+		"wide"			"0"	[$WIN32]
+		"wide"			"0"	[$X360]
+		"tall"			"0"	[$WIN32]
+		"tall"			"0"	[$X360]
 		"visible"		"0"
 		"enabled"		"0"
 		"image"			"../hud/objectives_flagpanel_bg_playingto"

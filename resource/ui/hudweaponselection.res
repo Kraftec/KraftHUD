@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"ActiveWeapon"
-		"xpos"			"0"
+		"xpos"			"566"
 		"ypos"			"-40"
 		"zpos"			"0"		
 		"wide"			"0"

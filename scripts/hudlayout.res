@@ -16,11 +16,11 @@
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"c95"	[$WIN32]
+		"xpos"	"c80"	[$WIN32]
 		"xpos_minmode"	"r85"	[$WIN32]
 		"ypos"	"c30"	[$WIN32]
 		"ypos_minmode"	"r36"	[$WIN32]
-		"wide"	"180"
+		"wide"	"250"
 		"tall"	"150"
 	}
 	
@@ -159,39 +159,36 @@
 	{
 		"fieldName" "HudWeaponSelection"
 		"xpos"	"100"
-		"wide"	"f0"
+		"wide"	"0"
 		"ypos" 	"0"
-		"tall"	"480"
+		"tall"	"0"
 		"RightMargin" "0"
-		"RightMargin_hidef" "32"
-		"RightMargin_lodef" "38"
-		"visible" "0"
-		"enabled" "0"
-		"SmallBoxWide" "72"
-		"SmallBoxTall" "54"
-		"PlusStyleBoxWide" "90"
-		"PlusStyleBoxTall" "63"
+		"visible" "1"
+		"enabled" "1"
+		"SmallBoxWide" "50"
+		"SmallBoxTall" "30"
+		"PlusStyleBoxWide" "0"
+		"PlusStyleBoxTall" "0"
 		"PlusStyleExpandSelected"	"0.3"
-		"LargeBoxWide" "110"
-		"LargeBoxTall" "77"
-		"BoxGap" "4"	[$WIN32]
-		"BoxGap" "4"	[$X360]
-		"SelectionNumberXPos" "12"
+		"LargeBoxWide" "80"
+		"LargeBoxTall" "50"
+		"BoxGap" "2"	[$WIN32]
+		"SelectionNumberXPos" "0"
 		"SelectionNumberYPos" "4"
-		"IconXPos" "8"
-		"IconYPos" "0"
+		"IconXPos" "999"
+		"IconYPos" "999"
 		"TextYPos" "70"		[$WIN32]
 		"TextYPos" "65"		[$X360]
-		"ErrorYPos" "48"
+		"ErrorYPos" "9999999"
 		"TextColor" "SelectionTextFg"
-		"MaxSlots"	"6"
+		"MaxSlots"	"15"
 		"PlaySelectSounds"	"1"
-		"Alpha" "220"
-		"SelectionAlpha" "220"
-		"BoxColor" "0 0 0 220"
+		"Alpha" "1"
+		"SelectionAlpha" "100"
+		"BoxColor" "0 0 0 100"
 		"SelectedBoxClor" "0 0 0 220"
-		"SelectionNumberFg"	"200 187 161 255"
-		"NumberFont" "HudSelectionText"
+		"SelectionNumberFg"	"0 0 0 255"
+		"NumberFont" "AdelinoBold12"
 	}	
 	
 	CHudAccountPanel
