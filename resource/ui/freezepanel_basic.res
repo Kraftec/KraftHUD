@@ -9,6 +9,7 @@
 		"wide"			"640"		
 		"tall"			"480"		
 		"visible"		"0"
+		"visible"		"0"
 
 		"NemesisSubPanel"
 		{
