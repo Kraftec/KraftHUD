@@ -8,8 +8,12 @@
 		"ypos"			"0"		
 		"wide"			"640"		
 		"tall"			"480"		
+<<<<<<< HEAD
 		"visible"		"0"
 		"visible"		"0"
+=======
+		"visible"		"1"
+>>>>>>> 23b1942325def0620ef57172eab89bb2ebfc6605
 
 		"NemesisSubPanel"
 		{
@@ -34,8 +38,13 @@
 				"zpos"			"5"
 				"wide"			"166"
 				"tall"			"38"
+<<<<<<< HEAD
 				"visible"		"0"
 				"enabled"		"0"
+=======
+				"visible"		"1"
+				"enabled"		"1"
+>>>>>>> 23b1942325def0620ef57172eab89bb2ebfc6605
 				"image"			"../hud/freezecam_black_bg"
 				"scaleImage"		"1"	
 			}
