@@ -2,15 +2,20 @@
 {
 	"ActiveWeapon"
 	{
-		"ControlName"	"EditablePanel"
+		"ControlName"	"CTFImagePanel"
 		"fieldName"		"ActiveWeapon"
 		"xpos"			"0"
-		"ypos"			"-80"
+		"ypos"			"-40"
 		"zpos"			"0"		
-		"wide"			"80"  //80
-		"tall"			"40" //40
+		"wide"			"0"  //80
+		"tall"			"0" //40
 		"visible"		"0"
 		"enabled"		"1"
-		"fillcolor"      "255 255 255 80"
+		"image"			"../hud/ammo_blue_bg"
+		"scaleImage"	"1"		
+		"teambg_2"		"../hud/ammo_red_bg"
+		"teambg_3"		"../hud/ammo_blue_bg"
+		"teambg_4"		"../hud/ammo_custom_bg"
+
 	}
 }
