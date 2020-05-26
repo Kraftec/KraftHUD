@@ -240,7 +240,7 @@
 		"visible" 	"1"
 		"enabled" 	"1"
 		"xpos"		"-20"
-		"ypos"		"390"
+		"ypos"		"350"
 		"wide"	 	"50"
 		"tall"	 	"50"
 		"tall_minmode"	 	"28"
@@ -406,7 +406,8 @@
 
 	HudDamageIndicator
 	{
-
+         "visible" "1"
+		 "enabled" "1"
 	}
 
 	HudCommentary
@@ -899,8 +900,8 @@
 	FreezePanel
 	{
 		"fieldName"				"FreezePanel"
-		"visible"				"1"
-		"enabled"				"1"
+		"visible"				"0"
+		"enabled"				"0"
 		"xpos"					"0"
 		"ypos"					"0"
 		"wide"					"f0"
@@ -910,8 +911,8 @@
 	FreezePanelCallout
 	{
 		"fieldName"				"FreezePanelCallout"
-		"visible"				"1"
-		"enabled"				"1"
+		"visible"				"0"
+		"enabled"				"0"
 		"xpos"					"200"
 		"ypos"					"200"
 		"wide"					"100"
@@ -1352,7 +1353,7 @@
 	{
 		"fieldName"		"HudAlert"
 		"visible"		"0"
-		"enable"		"1"
+		"enable"		"0"
 		"xpos"			"c-160"
 		"ypos"			"100"
 		"wide"			"320"
@@ -1367,8 +1368,8 @@
 		"ypos"			"0"
 		"wide"			"640"
 		"tall"			"480"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"bgcolor_override"	"0 0 0 0"
 		"PaintBackgroundType"	"0" // rounded corners
 	}
@@ -1377,7 +1378,7 @@
 	{
 		"fieldName"		"CTFFlagCalloutPanel"
 		"visible" 		"0"
-		"enabled" 		"1"
+		"enabled" 		"0"
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"	 		"40"

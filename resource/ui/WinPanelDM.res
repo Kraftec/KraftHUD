@@ -9,7 +9,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"Player1Name"
-		"font"			"HudFontSmallBold"
+		"font"			"AdelinoBold20"
 		"xpos"			"c-88"
 		"ypos"			"315"
 		"zpos"			"3"
@@ -91,7 +91,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"			"Player2Name"
-		"font"				"HudFontSmallBold"
+		"font"				"AdelinoBold20"
 		"xpos"				"c-232"
 		"ypos"				"280"
 		"zpos"				"3"
@@ -174,7 +174,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"			"Player3Name"
-		"font"				"HudFontSmallBold"
+		"font"				"AdelinoBold20"
 		"xpos"				"c56"
 		"ypos"				"260"
 		"zpos"				"3"
