@@ -8,7 +8,20 @@
 		"ypos"			"0"		
 		"wide"			"640"		
 		"tall"			"480"		
+<<<<<<< HEAD
 		"visible"		"0"
+=======
+<<<<<<< HEAD
+		"visible"		"0"
+=======
+<<<<<<< HEAD
+		"visible"		"0"
+		"visible"		"0"
+=======
+		"visible"		"1"
+>>>>>>> 23b1942325def0620ef57172eab89bb2ebfc6605
+>>>>>>> 00e206b27e06249de87a6a3def101d69716f1bc3
+>>>>>>> 08d56abb6570e98adc6d43fbd03656f950e3f7e5
 
 		"NemesisSubPanel"
 		{
@@ -33,8 +46,23 @@
 				"zpos"			"5"
 				"wide"			"166"
 				"tall"			"38"
+<<<<<<< HEAD
 				"visible"		"0"
 				"enabled"		"0"
+=======
+<<<<<<< HEAD
+				"visible"		"0"
+				"enabled"		"0"
+=======
+<<<<<<< HEAD
+				"visible"		"0"
+				"enabled"		"0"
+=======
+				"visible"		"1"
+				"enabled"		"1"
+>>>>>>> 23b1942325def0620ef57172eab89bb2ebfc6605
+>>>>>>> 00e206b27e06249de87a6a3def101d69716f1bc3
+>>>>>>> 08d56abb6570e98adc6d43fbd03656f950e3f7e5
 				"image"			"../hud/freezecam_black_bg"
 				"scaleImage"		"1"	
 			}
