@@ -1,7 +1,7 @@
 # KraftHUD
 
-A custom HUD for Open Fortress (WIP)
+A custom HUD for Open Fortress
 
-Screenshots: https://imgur.com/a/6W7COeN
+(WIP)
 
 Some elements taken from omphud-edit: https://huds.tf/forum/showthread.php?tid=233
