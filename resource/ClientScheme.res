@@ -1268,6 +1268,29 @@ Scheme
 				"weight"	"500"
 			}
 		}
+			"MainMenuFont"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"18"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"MainMenuFontBIG"
+		{
+			"1"
+			{
+				"name"		"TF2"
+				"tall"		"25"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
 		"ChalkboardTitle"
 		{
 			"1"
@@ -1282,6 +1305,7 @@ Scheme
 				"weight_hidef"	"1000"
 			}
 		}
+		
 		"ChalkboardTitleMedium"
 		{
 			"1"
